@@ -1,3 +1,2 @@
 # CFI Blacklist
 type:*
-src:*
