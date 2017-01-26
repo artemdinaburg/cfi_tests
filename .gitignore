@@ -1,2 +1,3 @@
-cfi_blacklist
+cfi_Os
+cfi_O0
 *.o
